@@ -1,0 +1,1 @@
+This repository contains the implementation of a PID-based Line Following Robot using a 5-sensor IR array and the TB6612FNG motor driver. The robot is designed to follow a black (or white) line with high accuracy, handle turns, and maintain stability using real-time feedback control.
